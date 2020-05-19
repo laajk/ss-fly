@@ -18,7 +18,7 @@ sudo  git clone https://github.com/suniceman/ss-fly
 
 安装
 ```BASH
-ss-fly/ss-fly.sh -i 密码 端口
+ss-fly/ss-fly.sh -ssr
 ```
 如果需要改密码或者改端口，只需要重新再执行一次搭建ss脚本代码就可以了，或者修改/etc/shadowsocks.json这个配置文件。
 
